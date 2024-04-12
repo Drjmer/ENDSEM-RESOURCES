@@ -1,0 +1,5 @@
+
+        window.$adManagementConfig = window.$adManagementConfig || {};
+        window.$adManagementConfig.web = window.$adManagementConfig.web || {};
+        window.$adManagementConfig.web.keywords = {"status":"PROCESSED","sales_kw":"numpy axes,axis,numpy axis,array,axis parameter,function,column,axis =,numpy array,1-dimensional array,example,tutorial,code,numpy function,multi-dimensional array","sales_safety":"GGT0"};
+      
